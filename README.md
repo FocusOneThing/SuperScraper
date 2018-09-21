@@ -7,4 +7,4 @@ Maybe you can employ me
 也许你可以成为我的老板
 
 
-自学编程，支持请点赞。
+自学编程，支持请Star。
